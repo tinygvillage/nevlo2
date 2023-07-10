@@ -4,28 +4,39 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: Neo Evolutionary Logic Project
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  To activate the fusion of neo evolutionary logic will be to create new frontiers by honoring our past and marrying it with the ideas of the future; where atop the shoulders of our wise ancestral giants that have come before us, may we stand and see the roads ahead with great clarity and virtue
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  Neo Evolutionary Logic Project
+  N.Ev.Lo. Project is a 501 (c) 3 Organization
+
+  Origin Story: The Dream Seed
+
+    This movement was and shall remain to be known as the Neo Evolutionary Logic Project (NEVLO Project). Inspired greatly by the arts of antiquity, the word neo derives from the Greek word neos, which means new; giving us yet another way to phrase something familiar as something different. It is from the very root of this movement's title that language, history, creation have a platform for which to teach us new ways of activating our artful-logic. Hand in hand, logic is the idea preceding creation; for what can be thought may then be transmuted into being --  an artful manifestation by any one creator or creators. By keenly observing our past, we are able to build diligently and conceive more efficient, more evolved ways to thrive and ally ourselves with all things in existence. Thus begets the idea of neo evolution where we pay homage to older systems of logic and build forward with honor and integrity in order to truly become something not only revolutionary but artfully connected to every generation that has come before us. Art will forever represent the infinite potential of expression by any one creator or creators. Henceforth, to activate the fusion of neo evolutionary logic will be to create new frontiers by honoring our past and marrying them with the ideas of the future; where atop the shoulders of our wise ancestral giants that have come before us, may we stand and see the roads ahead with great clarity and virtue… And so the dream was born, giving way for one creator to become a team of co-creators; hoping to establish a residence on this planet that not only serves each other but our communities, our planet, and every generation to come.
+
+  Where We're Headed ~ 2024 & Beyond
+
+    Imagine renewably-powered library kiosks all around the world, shaped by a central tree growing out of the oculus of a geodesic dome, surrounded by the edible garden walls of a meditation labyrinth. Each kiosk connected to each other while being particularly unique in their reports of the local bioregion.
+
+    Imagine a regenerative-minded, social permaculture circus that allows those to play the consciousness, lifeskills video game or the in-person interactive labyrinth obstacle course, The Labyrinth Artnasium; overlayed by the decorum of the Armone Galaxy ethos and language, which informs the architectural and interior forms of everything a visitor experiences and interacts with.
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
+org_general_email_inbox: connect@neverendinglogic.com
+org_street_address: 905 6th Street #Please include suite number on the line below
+org_address_suite:
+org_city: Arcata
 org_state: CA
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  95521
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  (707) 572 - 5289
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
-org_instagram_username:
+org_twitter_username: nevloproject
+org_facebook_username: nevloproject
+org_instagram_username: nevloproject
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
@@ -38,16 +49,16 @@ is_501c3: true
 #ONLINE DONATIONS & EMAIL SIGNUPS
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
-donorbox_campaign_name: free-template-demo
-tinyletter_username: interestingnonprofits
+donorbox_campaign_name:
+tinyletter_username:
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: false
+publish: true
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: four
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
